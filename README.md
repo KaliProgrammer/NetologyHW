@@ -1,5 +1,3 @@
-# NetologyHW
-
 
 # NeuroStartUp
 
